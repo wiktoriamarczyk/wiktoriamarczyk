@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I'm Wiki</b> 👾</h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=8000&pause=1000&color=9633F7&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+student;Passionate+about+making+computer+games"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=8000&pause=1000&color=9633F7&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+student;Passionate+about+making+games"></p>
 
 
 ## <b>Skills I'm currently working on...</b>

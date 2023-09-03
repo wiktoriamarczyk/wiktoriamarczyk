@@ -12,6 +12,6 @@
 
 ## <b>About</b>
 
-- 🔭 I’m currently working on:&emsp;2D platform game in Unity
+- 🔭 I’m currently working on:&emsp;implementation of software renderer
 - 🌱 I’m currently learning:&emsp;&emsp; game engines
 - 📫 How to reach me:&emsp;&emsp;&emsp;&emsp;wiktoriamarczyk01@gmail.com

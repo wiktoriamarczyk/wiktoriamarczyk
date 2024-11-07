@@ -16,4 +16,4 @@
 - 🌱 I’m currently learning:&emsp;&emsp; game engines
 - 📫 How to reach me:&emsp;&emsp;&emsp;&emsp;wiktoriamarczyk01@gmail.com
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=wiktoriamarczyk&label=Profile%20views&color=0e75b6&style=flat&color=red"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=wiktoriamarczyk&label=Profile%20views&color=0e75b6&style=flat&color=blue"/> </p>

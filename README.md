@@ -12,7 +12,7 @@
 
 ## <b>About</b>
 
-- 🔭 I’m currently working on:&emsp;ARPG game in UE5 & own game engine
+- 🔭 I’m currently working on:&emsp;ARPG game in UE5 & making own game engine
 - 🌱 I’m currently learning:&emsp;&emsp; graphics APIs
 - 📫 How to reach me:&emsp;&emsp;&emsp;&emsp;wiktoriamarczyk01@gmail.com
 
